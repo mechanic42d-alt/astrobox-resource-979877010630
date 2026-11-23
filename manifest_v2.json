@@ -1,0 +1,46 @@
+{
+  "item": {
+    "id": "979877010630",
+    "restype": "watchface",
+    "name": "edc沙漏",
+    "description": "白色点阵化作一粒粒流动的砂，在黑色屏幕上组成一只简洁的沙漏。转动手腕，砂粒随方向流动；轻点画面，可以显示或隐藏时间。",
+    "preview": [
+      "media/白色沙漏-落砂预览-4秒.webp",
+      "media/02-白色沙漏-落砂状态-3比4.jpg",
+      "media/03-白色沙漏-时间开关-3比4.jpg",
+      "media/04-白色沙漏-熄屏显示-3比4.jpg"
+    ],
+    "icon": "media/白色沙漏.png",
+    "cover": "media/download-1.jpg",
+    "author": [
+      {
+        "name": "914173667",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "0.0.0",
+      "file_name": "downloads/白色沙漏.bin",
+      "versionCode": 0
+    },
+    "xmb10nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/白色沙漏.bin",
+      "versionCode": 0
+    },
+    "xmb11": {
+      "version": "0.0.0",
+      "file_name": "downloads/白色沙漏.bin",
+      "versionCode": 0
+    },
+    "xmb11nfc": {
+      "version": "0.0.0",
+      "file_name": "downloads/白色沙漏.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {}
+}
