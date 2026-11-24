@@ -11,7 +11,7 @@
       "media/04-白色沙漏-熄屏显示-3比4.jpg"
     ],
     "icon": "media/白色沙漏.png",
-    "cover": "media/download-1.jpg",
+    "cover": "media/01-cover.jpg",
     "author": [
       {
         "name": "914173667",
@@ -22,25 +22,51 @@
   "links": [],
   "downloads": {
     "xmb10": {
-      "version": "0.0.0",
-      "file_name": "downloads/白色沙漏.bin",
-      "versionCode": 0
+      "version": "0.0.1",
+      "file_name": "downloads/edc沙漏.bin",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "统一包体显示名称为 edc沙漏\n更新头图并接入爱发电授权下载"
+        }
+      ]
     },
     "xmb10nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/白色沙漏.bin",
-      "versionCode": 0
+      "version": "0.0.1",
+      "file_name": "downloads/edc沙漏.bin",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "统一包体显示名称为 edc沙漏\n更新头图并接入爱发电授权下载"
+        }
+      ]
     },
     "xmb11": {
-      "version": "0.0.0",
-      "file_name": "downloads/白色沙漏.bin",
-      "versionCode": 0
+      "version": "0.0.1",
+      "file_name": "downloads/edc沙漏.bin",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "统一包体显示名称为 edc沙漏\n更新头图并接入爱发电授权下载"
+        }
+      ]
     },
     "xmb11nfc": {
-      "version": "0.0.0",
-      "file_name": "downloads/白色沙漏.bin",
-      "versionCode": 0
+      "version": "0.0.1",
+      "file_name": "downloads/edc沙漏.bin",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "0.0.1",
+          "content": "统一包体显示名称为 edc沙漏\n更新头图并接入爱发电授权下载"
+        }
+      ]
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
